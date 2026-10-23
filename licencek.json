@@ -1,4 +1,10 @@
 {
   "leiras": "Gumi Hotel licenclista. Kulcsonként csak a lenyomat szerepel.",
-  "licencek": {}
+  "licencek": {
+    "3e73759e5709e777d1d0ae46d33c77885ad473cbbf66671106e5ec0dc168ecae": {
+      "allapot": "aktiv",
+      "ervenyes": null,
+      "uzenet": ""
+    }
+  }
 }
